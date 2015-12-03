@@ -1,0 +1,6 @@
+BOM::
+
+bearings:
+
+- 6816-2RS Sealed Ball Bearing
+http://www.vxb.com/page/bearings/PROD/ThinSectionBearings/Kit9497
